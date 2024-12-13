@@ -1,0 +1,43 @@
+.header{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+h1{
+    margin-left: 40px;
+}
+li{
+    display:inline-block;
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    display: inline-block;
+    color:white;
+}
+.dishes{
+    text-align: center;
+}
+.box{
+    border: solid black 2px;   
+    display: inline-block;
+    width: 220px; 
+    margin:10px;
+}
+.order{
+    background-color: black;
+    display: inline-block;
+    color: white;
+}
+.order:hover{
+    cursor: pointer;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+input{
+    margin:4px;
+    padding:2px;
+}
